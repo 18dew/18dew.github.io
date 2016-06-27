@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harsh Patel</title>
+    <description>Innovation, Disruption, Blockchains, Technology &amp; Economics. 
+</description>
+    <link>http://18dew.github.io/</link>
+    <atom:link href="http://18dew.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 18 Mar 2016 22:10:35 +0530</pubDate>
+    <lastBuildDate>Fri, 18 Mar 2016 22:10:35 +0530</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>On controlling the negative externalities of Blockchains.</title>
+        <description>&lt;p&gt;On 26th January, In India we celebrated republic day, which denoted that India as a country adopted one of the basic / initial forms of consensus known as the republic. But over the internet, a new form of republic is being born called “ Blockchains” wherein individual nodes form a consensus over transactions and holds the possibility of being the new form of law- “The law of code.”&lt;/p&gt;
+
+&lt;h2 id=&quot;code-is-law-and-law-is-code&quot;&gt;“Code is law and law is code.”&lt;/h2&gt;
+
+&lt;p&gt;In recent times, the blockchains have gained the attention of many regulators. Upon referring to all the reports published by regulators on blockchain technology (i.e. - IMF reports, BIS reports, RBI etc). One thing is very evident that blockchain is an amazing technology and use of which can solve multitude of our problems, but there seem’s to be a very straight remark on cautious use of blockchain technology. That’s where the negative externality factor comes to play. The negative externalities with blockchains can be both intrinsic as well as systemic.&lt;/p&gt;
+
+&lt;p&gt;Intrinsic negative externalities relate to controlling the behaviour of the participants within a blockchain and what type of behaviour would be considered as rogue behaviour. To put it in simple words its like when the initial stock exchange was formed by Dutch (The Joint stock company) in 1600’s, at that time the definition of insider trading did not exist, as the intrinsic negative behaviour was not identified.  Similar is the case with blockchain wherein a negative behaviour can’t be foreseen right now but can be controlled by enforcing stringent rules on the players to participate in the blockchains, either technically or by definition of boundaries but not limited to these controls.&lt;/p&gt;
+
+&lt;p&gt;Systemic negative externalities relate to how the system reacts to the change introduced by blockchains. The introduction of blockchains within any ecosystem would lead to the fundamental shift the way in which business is done. Thereby makes it a mandatory to understand the system dynamics of blockchain application before rushing into applying blockchain and how the core object of business is affected by the use of blockchains.&lt;/p&gt;
+
+&lt;p&gt;To conclude finding the use cases for blockchains is really simple but getting it to work actually would require a deeper understanding of the ecosystem and detailed definition of rules for players. :)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Mar 2016 17:28:17 +0530</pubDate>
+        <link>http://18dew.github.io/blockchain/economics/2016/03/06/neg-externalities.html</link>
+        <guid isPermaLink="true">http://18dew.github.io/blockchain/economics/2016/03/06/neg-externalities.html</guid>
+        
+        
+        <category>blockchain</category>
+        
+        <category>economics</category>
+        
+      </item>
+    
+      <item>
+        <title>Regulatory Economics and Blockchains</title>
+        <description>&lt;h2 id=&quot;innovation-means-cutting-out-the-unnecessary-and-bringing-in-the-required-one&quot;&gt;“Innovation means cutting out the unnecessary and bringing in the required one”&lt;/h2&gt;
+
+&lt;p&gt;Regulation by virtue is a set of rules introduced within the system to ensure that participants behave in the particular manner. Where in one party mostly government agency acts as regulator defines the rules set for the ecosystem to follow. The nature of rules define the method of regulation applied on the ecosystem. The methods can be either command &amp;amp; control, incentive induced or by changing the preference of players. However there also exist a structure which follows self regulation where in system regulates itself.&lt;/p&gt;
+
+&lt;p&gt;However in a typical scenario “self-regulation” tends to fail over time in centralised structure but in decentralised structures like blockchain self regulation works miracles. By Virtue of governance self regulation can be regarded as one of the highest order of regulation where system governs itself and Nature is the best example of self regulation.&lt;/p&gt;
+
+&lt;p&gt;With that said we usually conclude that only one form of rules can be applied on ecosystem but what we fail to see is that multitude amount of regulation exists within one ecosystem and becomes a very bigger problem at scale for the ecosystem to handle. Take instance for any Drug / Car / any approved and agreed end product which has to pass thru multitude of mandatory regulatory checks and balances in order to get the product to market.  Thats one big problem because there is lack of collaboration between entities. Where in we see each entity as individual and not as whole collection of entities.&lt;/p&gt;
+
+&lt;p&gt;With self regulation at the core of blockchains. One question becomes very pertinent&lt;/p&gt;
+
+&lt;h2 id=&quot;can-methods-of-regulation-be-built-on-top-of-blockchains-and-solve-massive-number-of-our-regulatory-problems&quot;&gt;“Can methods of regulation be built on top of blockchains and solve massive number of our regulatory problems?”&lt;/h2&gt;
+
+&lt;p&gt;Answer to which will only be defined how well we collaborate and miracles have only been conquered by collaboration… :)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Dec 2015 17:28:17 +0530</pubDate>
+        <link>http://18dew.github.io/blockchain/economics/2015/12/05/regulatory-economics.html</link>
+        <guid isPermaLink="true">http://18dew.github.io/blockchain/economics/2015/12/05/regulatory-economics.html</guid>
+        
+        
+        <category>blockchain</category>
+        
+        <category>economics</category>
+        
+      </item>
+    
+      <item>
+        <title>Decentralised Software Engineering - Evolution in Software development.</title>
+        <description>&lt;p&gt;Blockchain introduced the Idea of Decentralisation of processing power, trust etc. And the advancements in blockchain technologies like introduction of smart contracts and smart assets over blockchain challenges the very basis of software engineering as distributed applications developed on top of blockchain technologies do not tend to follow rules which are used to make the normal centralised applications. So Why is it so that normal software engineering methods and tools will not apply on blockchain based apps?&lt;/p&gt;
+
+&lt;h2 id=&quot;answer-is-simple---purpose-of-both-models-of-development-are-different&quot;&gt;Answer is simple - Purpose of both models of development are different.&lt;/h2&gt;
+
+&lt;p&gt;The Software engineering method like waterfall, agile etc may not fit in aptly for decentralised application development as the these traditional models are with a assumption that all the pieces of all pieces of technology are flexible and can be altered at will (i.e Databases, code etc). But blockchain is a different animal all together once committed to chain no one can change it (Unless the integrity of the blockchain is compromised by 51% attack which is unhealthy affair). Hence Demming cycle / PDCA Cycle cant be applied on Dapp development (Applies both to Smart contracts and smart assets based Dapps.) I do agree normal software development methods would work developing underlying framework (i.e. - Blockchain Clients like bitcoin, ethereum etc)  but developing application on blockchains require a different approach. So far no formal framework for decentralised application framework there, but some method which can be used for Dapps development is as follows -&lt;/p&gt;
+
+&lt;h3 id=&quot;value-maps&quot;&gt;Value Maps&lt;/h3&gt;
+&lt;p&gt;The Value maps is the basic structure of the blockchains and how value flows within the distributed ledger. It forms the very basic layout of the decentralised application and explains how the associated stake holder derives value of form the Dapps. This forms a very high level definition for the Dapps.&lt;/p&gt;
+
+&lt;h3 id=&quot;value-flow&quot;&gt;Value Flow&lt;/h3&gt;
+&lt;p&gt;Value flow describes how stake holder interact with the blockchain and what do they interact with the blockchain and for certain cases interaction amongst smart contracts as complex Dapps using smart contracts will require interaction amongst smart contracts.&lt;/p&gt;
+
+&lt;h3 id=&quot;contract-structure&quot;&gt;Contract structure&lt;/h3&gt;
+&lt;p&gt;These define the very nature of the nature of the smart contract. It defines the nature of the contract which is working and its interaction with stake holder or other contracts.&lt;/p&gt;
+
+&lt;p&gt;As a concluding note, World of blockchains is moving a tremendous pace and will bring in many structural changes to the very fabric we live in.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Oct 2015 17:28:17 +0530</pubDate>
+        <link>http://18dew.github.io/blockchain/development/smartcontracts/2015/10/11/regulatory-economics.html</link>
+        <guid isPermaLink="true">http://18dew.github.io/blockchain/development/smartcontracts/2015/10/11/regulatory-economics.html</guid>
+        
+        
+        <category>blockchain</category>
+        
+        <category>development</category>
+        
+        <category>smartcontracts</category>
+        
+      </item>
+    
+      <item>
+        <title>Blockchains - Out of Sync</title>
+        <description>&lt;p&gt;Blockchain is a amazing technology used to store transaction over time while facilitating uniformed trust, integrity and availability to nodes. At a granular level the blockchain consists of transactions aligned in blocks after valid verification by miners forming a web of mathematical trust amongst the nodes involved. All blockchains have configuration parameters like block size and block generation time. Block generation time can have minor variations and block-size overtime can be by tweeked to increase overtime as it is a point of consensus amongst nodes. Like in case of bitcoin blockchain the size of block gradually increased from 256 kb to 1 MB, [Currently 10 MB block size is in heated debate.].&lt;/p&gt;
+
+&lt;p&gt;Blockchains chain block size has a interesting network bandwidth linkage, Which requires consideration from the designer and makers, while deciding the building blocks for the blockchains. To precisely arrange the logical pieces in place lets assume we had a blockchain generating blocks every 1 Sec with a size cap of 0.5 MB handling, also assuming blockchains is currently operating at 100% capacity (i.e. - Block size is utilised 100% and most of the blocks generated are roughly about 0.5 MB in size). In order  make such a blockchain work a dedicated download speed of 0.5MB is required (i.e. - 4 Mbps of bandwidths is required dedicatedly) for the node to be in sync with the current blockchain. There by rendering nodes with lower bandwidth in a constantly out of sync.&lt;/p&gt;
+
+&lt;p&gt;The bitcoin blockchain has 10 Minutes block generation time and 1 MB block size but is facing pressure on increasing the block size since current capacity of 1 MB block is being reached and proposals of 10 MB block are in place. Going back to our issue of dedicated network requirement to keep the node in sync with the blockchain, the block size of 1 MB requires 13.65Kbits / sec bandwidth and with increase in block size to 10 MB would required 136.6 Kbits /sec internet speed. Network bandwidth is not a issue in most part of the world but is defiantly problem in remote parts of the world, where internet services have not penetrated considerably and internet speeds are lagging behind the world average bandwidth. [Currently world average bandwidth is 3.9 MBits / sec based on Akamai state of the internet report 2014.]. Due to the dedicated network requirement a network infeasibility zone for a blockchains is created within current internet architecture. Thus while developing a blockchain or amending it the network infeasibility needs to be taken into due consideration.&lt;/p&gt;
+
+&lt;p&gt;The evolution of blockchain is very interesting and fascinating. In the future course it might be possible that blockchains put a pressure on the overall state of information networks across all countries to improve connectivity due to it very capability of becoming the backbone for value transfer across internet :)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jul 2015 17:28:17 +0530</pubDate>
+        <link>http://18dew.github.io/blockchain/economics/2015/07/03/blockchain-outofsync.html</link>
+        <guid isPermaLink="true">http://18dew.github.io/blockchain/economics/2015/07/03/blockchain-outofsync.html</guid>
+        
+        
+        <category>blockchain</category>
+        
+        <category>economics</category>
+        
+      </item>
+    
+      <item>
+        <title>Blockchain-ware: Next stage of malware evolution.</title>
+        <description>&lt;p&gt;Blockchain is amazing piece of technology from payment perspective where by offering users a decentralized system of payments across the globe, with adequate amount of privacy and security. However the certain functionality of Blockchain can be used for nefarious purposes especially by malcoders. Some of them being encoding components of malware within Blockchain transactions or by using it for purpose of command and control mechanism (i.e. Similar to Zeus controler used in Zeus botnet ).&lt;/p&gt;
+
+&lt;h3 id=&quot;use-of-blockchain-as-a-storage-for-malware-components&quot;&gt;Use of Blockchain as a storage for malware components.&lt;/h3&gt;
+&lt;p&gt;Any executable (PE File )can be broken down into sections of code. (i.e. - .data, .text .bss etc ) Most of the malwares now a days are packed malwares by using method of execution compression. There by limiting the sections to two sections only. But if smartly done multiple sections can be hand crafted or custom made such that each section serves as a library for specific calls.&lt;/p&gt;
+
+&lt;p&gt;The Blockchain transaction have functionality of inserting comments in to transactions which is in turn kept into the Blockchain till eternity. Since the Blockchain is decentralised all the malcoders needs to do is insert various sections of the malware in the comments section of the transactions (execpt the header ) or store various section using decentralized stroage platform using Blockchains, and develop a header (Actual exe which runs on infected system) which would query the Blockchain and perform designated malicious activities.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-of-blockchain-as-a-command-and-control-center&quot;&gt;Use of Blockchain as a Command and control center.&lt;/h3&gt;
+&lt;p&gt;Bot-nets operate in command and control model. The attacker can use the comment section of transaction from a specific address to broadcast messages to bots / infected system for their future course of actions. (i.e. Attack a specific system / target or DDoS a Server etc ) However this method can be prety devastating if the data in comments is encrypted. The current advancement in Blockchain technology (i.e :- Making the Blockchain Turing complete and having functional programmable language inside the Blockchain) may assist this cause.&lt;/p&gt;
+
+&lt;p&gt;However adverse the situation may be there is always a way out and it could this either mean a new set of Blockchain based Security Products for Antivirus Companies (specific for bitcoin users / providers ) or additional security consideration to core developers of respective decentralized platforms?&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Apr 2015 17:28:17 +0530</pubDate>
+        <link>http://18dew.github.io/blockchain/economics/malware/2015/04/03/blockchainware.html</link>
+        <guid isPermaLink="true">http://18dew.github.io/blockchain/economics/malware/2015/04/03/blockchainware.html</guid>
+        
+        
+        <category>blockchain</category>
+        
+        <category>economics</category>
+        
+        <category>malware</category>
+        
+      </item>
+    
+  </channel>
+</rss>
